@@ -16,7 +16,7 @@ import java.util.List;
 @NoArgsConstructor
 public class Movie {
     private ObjectId id;
-    private String imbdId;
+    private String imdbId;
     private String title;
     private String releaseDate;
     private String trailerLInk;
